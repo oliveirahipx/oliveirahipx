@@ -12,4 +12,4 @@ Portfólio com os projetos, os executáveis e as demos: **[miguel.hipfinance.com
 
 Os outros projetos (APIs em Node, programas de desktop em Java, um trabalho de RISC-V) estão fixados aqui embaixo. Os exercícios de aula ficam em [estudos](https://github.com/oliveirahipx/estudos).
 
-**Contato:** [migueloliveira.hipx@gmail.com](mailto:migueloliveira.hipx@gmail.com)
+**Contato:** [migueloliveira.hipx@gmail.com](mailto:migueloliveira.hipx@gmail.com) · [LinkedIn](https://www.linkedin.com/in/miguel-oliveira-08939934b)
